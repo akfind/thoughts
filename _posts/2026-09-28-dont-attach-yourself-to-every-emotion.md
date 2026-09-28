@@ -5,10 +5,8 @@ date: 2026-09-28
 author: AK
 ---
 
-Happiness comes and goes.
-
-Sadness comes and goes.
-
+Happiness comes and goes.<br>
+Sadness comes and goes.<br>
 Anger comes and goes.
 
 So, Lemme put together like this,
