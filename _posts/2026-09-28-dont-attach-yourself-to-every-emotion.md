@@ -10,11 +10,9 @@ Sadness comes and goes.<br>
 Anger comes and goes.
 
 <br>
-
 So, Lemme put together like this,
 
 <br>
-
 **Don't yourself attached with any emotions.**
 
 For example,
