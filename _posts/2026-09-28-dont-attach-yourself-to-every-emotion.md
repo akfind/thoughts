@@ -16,13 +16,13 @@ So, Lemme put together like this,
 For example,
 
 **Eg 1:** <br>
-you are posting content. Today your content getting more views, don't get happy. After some days your content not getting enough views, don't get sad. after some days your content getting no views, don't get sad 😂🙃.
+you are posting content. Today your content getting more views, don't get happy. After some days your content not getting enough views, don't get sad. after some days your content getting no views, don't get sad 🙃.
 
 **Eg 2:** <br>
-a girl talking with you today, don't get be happy. A girl not talking with you tomorrow, don't get be sad.
+a girl talking with you today, don't get be happy. A girl not talking with you tomorrow, don't get be sad 🙂.
 
 **Eg 3:** <br>
-today you got more conversions, more sales, more customers, don't get happy. Tomorrow you getting low conversions, no conversions, don't get be sad.
+today you got more conversions, more sales, more customers, don't get happy. Tomorrow you getting low conversions, no conversions, don't get be sad 😂.
 
 <br>
 Same goes to everywhere. content, personal life, business...
