@@ -36,5 +36,6 @@ yesterday i built automation of, a lead left orders in cart, it immediately info
 
 ### Eg 2:
 Setted up automation of, every signle day 6pm I receive telegram msg that my ICP asking questions on the sub-reddit page
-One line I'd keep:
-> hink → Visualize → Find the right AI → Execute → Repeat.
+
+in 1 line I'd keep:
+> think → Visualize → Find the right AI → Execute
