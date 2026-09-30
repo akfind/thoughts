@@ -8,7 +8,7 @@ author: AK
 ## Think, Visualize, Find the Right AI, Execute
 
 September 30, 2026 · AK
-***
+---
 
 1. Start with the problem that you want to solve.
 2. Visualize it and think about what you want the final output to be.
